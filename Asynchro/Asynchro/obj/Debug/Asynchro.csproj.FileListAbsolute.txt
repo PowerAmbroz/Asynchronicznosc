@@ -1,0 +1,9 @@
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\bin\Debug\Asynchro.exe.config
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\bin\Debug\Asynchro.exe
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\bin\Debug\Asynchro.pdb
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\obj\Debug\Asynchro.csprojResolveAssemblyReference.cache
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\obj\Debug\Asynchro.Form1.resources
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\obj\Debug\Asynchro.Properties.Resources.resources
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\obj\Debug\Asynchro.csproj.GenerateResource.Cache
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\obj\Debug\Asynchro.exe
+C:\Users\Ambroz\Desktop\Asynchro\Asynchro\Asynchro\obj\Debug\Asynchro.pdb
